@@ -8,6 +8,7 @@ public class HelloJava {
 		// TODO Auto-generated method stub
         System.out.print("aaaa");
         System.out.append("dfdf");
+        System.out.println("dfdf");
 	}
 
 }
